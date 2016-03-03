@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>67810A63-4EE5-49F6-9E82-21C4B042E6C9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FlashTag</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EBB3F22A83D93E973FAC30FAA8F96671BE1EAA62</key>
+		<string>http://172.21.1.10:7071/xia.xue/flashtag.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FlashTag/FlashTag.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EBB3F22A83D93E973FAC30FAA8F96671BE1EAA62</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://172.21.1.10:7071/xia.xue/flashtag.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EBB3F22A83D93E973FAC30FAA8F96671BE1EAA62</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EBB3F22A83D93E973FAC30FAA8F96671BE1EAA62</string>
+			<key>IDESourceControlWCCName</key>
+			<string>flashtag</string>
+		</dict>
+	</array>
+</dict>
+</plist>

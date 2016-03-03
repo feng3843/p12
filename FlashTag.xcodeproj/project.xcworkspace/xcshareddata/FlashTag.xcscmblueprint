@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "EBB3F22A83D93E973FAC30FAA8F96671BE1EAA62",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "646fb212-6d06-11e3-a2a4-57cd746879f3++1155" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "EBB3F22A83D93E973FAC30FAA8F96671BE1EAA62" : 0,
+    "646fb212-6d06-11e3-a2a4-57cd746879f3++1155" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0640ECD7-3256-423D-9DA5-0ACC6F574890",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "EBB3F22A83D93E973FAC30FAA8F96671BE1EAA62" : "code\/",
+    "646fb212-6d06-11e3-a2a4-57cd746879f3++1155" : "code\/FlashTag\/FlashTag\/Main\/Tool\/IM\/OtherResources\/MJRefresh\/MJRefresh.bundle\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "FlashTag",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "FlashTag\/FlashTag.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/192.168.0.179\/BloodSugar",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "646fb212-6d06-11e3-a2a4-57cd746879f3++1155"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/172.21.1.10:7071\/xia.xue\/flashtag.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EBB3F22A83D93E973FAC30FAA8F96671BE1EAA62"
+    }
+  ]
+}

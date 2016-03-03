@@ -1,0 +1,16 @@
+PODS:
+  - EGODatabase (2.0)
+  - NSDate+TimeAgo (1.0.3)
+  - SWTableViewCell (0.3.7)
+
+DEPENDENCIES:
+  - EGODatabase (~> 2.0)
+  - NSDate+TimeAgo (~> 1.0.2)
+  - SWTableViewCell (~> 0.3.6)
+
+SPEC CHECKSUMS:
+  EGODatabase: 8192f4d2bb9f05e38fe8be07a87dcd8066325ee3
+  NSDate+TimeAgo: 416f55d2696d3744c313091c5a9280d47f8238fe
+  SWTableViewCell: 2a94aadc9d47b2b611fa064566bf57948b95b579
+
+COCOAPODS: 0.39.0

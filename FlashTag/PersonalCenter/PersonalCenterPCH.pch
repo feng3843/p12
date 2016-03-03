@@ -1,0 +1,77 @@
+//
+//  PersonalCenterPCH.pch
+//  FlashTag
+//
+//  Created by MyOS on 15/9/2.
+//  Copyright (c) 2015年 Puyun. All rights reserved.
+//
+
+#ifndef FlashTag_PersonalCenterPCH_pch
+#define FlashTag_PersonalCenterPCH_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif
+
+#import "PYAllCommon.h"
+
+
+//货位cell
+#import "PostCollectionViewCell.h"
+#import "FolderChargeCollectionViewCell.h"
+#import "FolderSystemCollectionViewCell.h"
+#import "FolderCustomCollectionViewCell.h"
+
+//单例
+#import "HandyWay.h"
+
+//我的关注页面
+#import "MyAttentionViewController.h"
+
+//我的粉丝页面
+#import "MyFansViewController.h"
+#import "MyFansTableViewCell.h"
+
+//
+#import "VisitBuyerViewController.h"
+#import "VisitSellerViewController.h"
+
+//登录，编辑文件夹界面参数
+#define kBJ 15
+#define kButtonWidth (320 - 2 * kBJ)
+
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#endif
+
+
+//宽高比换算
+/**宽度*/
+#define kCalculateH(Z) ((Z)/320.0*(fDeviceWidth))
+/**高度*/
+#define kCalculateV(P) ((P)/568.0*(fDeviceHeight))
+
+
+//完整全屏高度
+#define kQPHeight ([UIScreen mainScreen].bounds.size.height)
+
+#import "UIButton+WebCache.h"
+
+//个人主页model
+#import "UserCenterPostModel.h"
+
+//评论,点赞
+#import "CommentViewController.h"
+#import "CommonInterface.h"
+
+#import "MJRefresh.h"
+
+//帖子详情
+#import "NoteDetailViewController.h"
+
+//
+#import "PostListViewController.h"
+

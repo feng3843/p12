@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>EGODatabase.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>NSDate+TimeAgo.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>SWTableViewCell.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>13C0548F87978E770BF07D80F168F666</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3FD9ADA8782ECAE401A06B30B8AAB66C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>90DA5F516D88C5029B9DAAAC606AE576</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>EB1AAF75FE97AD0930CA2469CED77F33</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
